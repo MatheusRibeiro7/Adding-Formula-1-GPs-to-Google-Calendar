@@ -5,8 +5,8 @@ For this project to work you will need to have installed the Google API. That ca
 https://developers.google.com/calendar/quickstart/python
 
 The packages used in this project are:
-<br>  *Pandas
-<br>  *Numpy
-<br>  *BeautifulSoup4
-<br>  *Datetime
+<br>  -Pandas
+<br>  -Numpy
+<br>  -BeautifulSoup4
+<br>  -Datetime
    
